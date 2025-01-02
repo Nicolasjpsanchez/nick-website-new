@@ -6,28 +6,19 @@ This website is a personal project by Nicolas Sanchez, showcasing interests and 
 
 ## **Features**
 
-### **1. Movies Page**
 
-- A curated collection of movie titles categorized by genres, directors, and themes.
-- Includes descriptions, reviews, and recommendations.
-- Features iconic classics and modern masterpieces.
-
-### **2. Recipes Page**
+### **1. Recipes Page**
 
 - A collection of detailed recipes for various dishes.
 - Each recipe page includes ingredients, step-by-step directions, and an image of the dish.
 - Highlights personal favorites like Skillet Flatbread, Butter Chicken, and more.
 
-### **3. Contact Page**
 
-- Allows visitors to get in touch for suggestions, feedback, or inquiries.
-- Includes a form for name, email, and message submission.
-
-### **4. Sitemap**
+### **2. Sitemap**
 
 - A clear, organized structure of all website pages to help visitors navigate easily.
 
-### **5. Footer**
+### **3. Footer**
 
 - Includes copyright information and a link to the sitemap.
 - Provides social media icons for broader connectivity.
@@ -36,7 +27,6 @@ This website is a personal project by Nicolas Sanchez, showcasing interests and 
 
 - **About Me:** Share personal background and motivations for the site.
 - **Blog:** Regular posts on movie reviews, cooking tips, and personal experiences.
-- **Recommendations:** Suggestions for must-watch films or must-try recipes.
 - **Interactive Features:** Quizzes, polls, or community forums.
 
 ## **Technologies Used**
