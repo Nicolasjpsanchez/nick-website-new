@@ -1,107 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://nicolasjpsanchez.com/</loc>
-  <lastmod>2025-03-14T21:38:46+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/recipes</loc>
-  <lastmod>2025-03-14T21:38:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/sitemap.html</loc>
-  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/privacy</loc>
-  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/terms_of_service</loc>
-  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/index.html</loc>
-  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/landing.html</loc>
-  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/butter_chicken</loc>
-  <lastmod>2025-03-14T21:38:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/chocolate_chip_cookies</loc>
-  <lastmod>2025-03-14T21:38:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/mississippi_pancakes</loc>
-  <lastmod>2025-03-14T21:38:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/snowball_cookies.html</loc>
-  <lastmod>2025-03-14T21:38:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/snowball_cookies</loc>
-  <lastmod>2025-03-14T21:38:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/shortbread</loc>
-  <lastmod>2025-03-14T21:38:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/spicy_mule</loc>
-  <lastmod>2025-03-14T21:38:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/skillet_flatbread</loc>
-  <lastmod>2025-03-14T21:38:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/privacy.html</loc>
-  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/terms-of-service.html</loc>
-  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/sitemap.html</loc>
-  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://nicolasjpsanchez.com/pages/elements.html</loc>
-  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
-</urlset>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sitemap</title>
+  
+  <!-- Link to external CSS files -->
+ <link rel="stylesheet" href="assets/css/noscript.css" type="text/css">
+<link rel="stylesheet" href="assets/css/main.css" type="text/css">
+  
+</head>
+<body>
+  <h1>Sitemap</h1>
+  <ul>
+    <li><a href="https://nicolasjpsanchez.com/">Home</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/recipes">Recipes</a></li>
+    <li><a href="https://nicolasjpsanchez.com/sitemap.html">Sitemap (HTML)</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/privacy">Privacy</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/terms_of_service">Terms of Service</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/index.html">Index</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/landing.html">Landing Page</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/butter_chicken">Butter Chicken</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/chocolate_chip_cookies">Chocolate Chip Cookies</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/mississippi_pancakes">Mississippi Pancakes</a></li>
+    <li><a href="https://nicolasjpsanchez.com/snowball_cookies.html">Snowball Cookies</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/snowball_cookies">Snowball Cookies (Page)</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/shortbread">Shortbread</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/spicy_mule">Spicy Mule</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/skillet_flatbread">Skillet Flatbread</a></li>
+    <li><a href="https://nicolasjpsanchez.com/privacy.html">Privacy (HTML)</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/terms-of-service.html">Terms of Service (HTML)</a></li>
+    <li><a href="https://nicolasjpsanchez.com/pages/elements.html">Elements</a></li>
+  </ul>
+</body>
+</html>
