@@ -1,118 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Home Page -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    
-    <!-- Recipes Page -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/recipes.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- Specific Recipe Pages -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/butter_chicken.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/chocolate_chip_cookies.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/mississippi_pancakes.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/shortbread.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/skillet_flatbread.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/snowball_cookies.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/spicy_mule.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <!-- Letterboxd Page -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/https://letterboxd.com/nicksanchez02/</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <!-- Additional Resources Section -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/README.txt</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/privacy.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/template.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/terms-of-service.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    <!-- Sitemap Page -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/sitemap.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
 
-    <!-- Footer Links -->
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/privacy.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://nicolasjpsanchez.com/pages/terms_of_service.html</loc>
-        <lastmod>2025-03-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
+<url>
+  <loc>https://nicolasjpsanchez.com/</loc>
+  <lastmod>2025-03-14T21:38:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/recipes</loc>
+  <lastmod>2025-03-14T21:38:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/sitemap.html</loc>
+  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/privacy</loc>
+  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/terms_of_service</loc>
+  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/index.html</loc>
+  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/landing.html</loc>
+  <lastmod>2025-03-14T21:38:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/butter_chicken</loc>
+  <lastmod>2025-03-14T21:38:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/chocolate_chip_cookies</loc>
+  <lastmod>2025-03-14T21:38:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/mississippi_pancakes</loc>
+  <lastmod>2025-03-14T21:38:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/snowball_cookies.html</loc>
+  <lastmod>2025-03-14T21:38:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/snowball_cookies</loc>
+  <lastmod>2025-03-14T21:38:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/shortbread</loc>
+  <lastmod>2025-03-14T21:38:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/spicy_mule</loc>
+  <lastmod>2025-03-14T21:38:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/skillet_flatbread</loc>
+  <lastmod>2025-03-14T21:38:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/privacy.html</loc>
+  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/terms-of-service.html</loc>
+  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/sitemap.html</loc>
+  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nicolasjpsanchez.com/pages/elements.html</loc>
+  <lastmod>2025-03-14T21:38:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
