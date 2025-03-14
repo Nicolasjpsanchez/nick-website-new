@@ -1,6 +1,0 @@
-# security.txt for nicolasjpsanchez.com
-
-Contact: mailto:security@nicolasjpsanchez.com
-Encryption: https://www.nicolasjpsanchez.com/pgp-public-key
-Acknowledgements: https://www.nicolasjpsanchez.com/acknowledgements
-Policy: https://www.nicolasjpsanchez.com/security-policy
